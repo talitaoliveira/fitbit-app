@@ -1,0 +1,11 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  color: green;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  fill: blue;
+}

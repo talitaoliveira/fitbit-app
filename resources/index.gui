@@ -1,0 +1,6 @@
+<svg>
+    <rect id="background" />
+    <text>I am black text!</text>
+    <text class="labels">I am red text!</text>
+    <text id="textbox">I am blue text!</text>
+</svg>
